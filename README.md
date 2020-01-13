@@ -6,7 +6,7 @@ ServiceStack ASP.NET v4.5 Empty Web project
 
 > Browse [source code](https://github.com/NetFrameworkTemplates/web-netfx), view live demo [web.web-templates.io](http://web.web-templates.io) and install with [dotnet-new](http://docs.servicestack.net/dotnet-new):
 
-    $ dotnet tool install --global web
+    $ dotnet tool install --global x
 
-    $ web new web-netfx ProjectName
+    $ x new web-netfx ProjectName
 
